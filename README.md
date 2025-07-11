@@ -35,12 +35,17 @@ As a hypothetical applicant for this role, I was tasked with:
 Through this project, I demonstrated my ability to handle complex data queries and present findings in an engaging and insightful manner. This experience not only honed my technical skills but also enhanced my ability to communicate data-driven insights effectively.
 
 ## Key Insights
-Significant Increase in Unique Products: The dataset reveals a notable increase in unique products, with 334 identified in 2021 compared to 245 in 2020.
-Top Product Segment - "Notebook": The "Notebook" segment emerges as the most prominent category, boasting the highest product count, with 129 distinct products.
-Rise in "Accessories" Segment: The "Accessories" segment witnessed a significant increase in product counts, with 34 more products recorded in 2021 compared to 2020.
-Leading Retailer - "Flipkart": Among retailers, "Flipkart" stands out with the highest average pre-invoice discount percentage, recorded at 30.83%.
-Improved Sales Performance: Fiscal year 2020's low sales performance in March and April experienced notable improvement in fiscal year 2021.
-Key Sales Channel - "Retailer": The "Retailer" channel emerges as the primary contributor, accounting for 73.22% of gross sales, thus serving as the key driver.
+1.Significant Increase in Unique Products: The dataset reveals a notable increase in unique products, with 334 identified in 2021 compared to 245 in 2020.
+
+2.Top Product Segment - "Notebook": The "Notebook" segment emerges as the most prominent category, boasting the highest product count, with 129 distinct products.
+
+3.Rise in "Accessories" Segment: The "Accessories" segment witnessed a significant increase in product counts, with 34 more products recorded in 2021 compared to 2020.
+
+4.Leading Retailer - "Flipkart": Among retailers, "Flipkart" stands out with the highest average pre-invoice discount percentage, recorded at 30.83%.
+
+5.Improved Sales Performance: Fiscal year 2020's low sales performance in March and April experienced notable improvement in fiscal year 2021.
+
+6.Key Sales Channel - "Retailer": The "Retailer" channel emerges as the primary contributor, accounting for 73.22% of gross sales, thus serving as the key driver.
 
 ---
 
