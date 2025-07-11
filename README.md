@@ -25,7 +25,7 @@ As a hypothetical applicant for this role, I was tasked with:
    - Leveraged Power BI to visualize the output, making the insights clear and compelling.
    
 3. **Presentation Design**:
-   - Designed an engaging and professional presentation in Microsoft PowerPoint to effectively communicate the insights.
+   - Designed an engaging and professional presentation to effectively communicate the insights.
    
 4. **Actionable Insights**:
    - Provided actionable insights and recommendations to assist the management team in making informed decisions.
@@ -34,25 +34,13 @@ As a hypothetical applicant for this role, I was tasked with:
 
 Through this project, I demonstrated my ability to handle complex data queries and present findings in an engaging and insightful manner. This experience not only honed my technical skills but also enhanced my ability to communicate data-driven insights effectively.
 
-## Files in this Repository
-
-- **ad-hoc-requests.pdf**: Document containing the 10 ad hoc business requests.
-- **SQL Queries**: Folder containing SQL scripts used to extract data.
-- **Power BI Visualizations**: Folder containing Power BI files with data visualizations.
-- **Presentation**: PowerPoint file showcasing insights and recommendations.
-
-## How to Use
-
-1. **SQL Queries**:
-   - Navigate to the `SQL Queries` folder.
-   - Run the SQL scripts in your MySQL environment to extract the necessary data.
-   
-2. **Power BI Visualizations**:
-   - Open the Power BI files in Power BI Desktop to view the visualizations.
-   
-3. **Presentation**:
-   - Open the PowerPoint file to view the presentation designed for top-level management.
-
+## Key Insights
+Significant Increase in Unique Products: The dataset reveals a notable increase in unique products, with 334 identified in 2021 compared to 245 in 2020.
+Top Product Segment - "Notebook": The "Notebook" segment emerges as the most prominent category, boasting the highest product count, with 129 distinct products.
+Rise in "Accessories" Segment: The "Accessories" segment witnessed a significant increase in product counts, with 34 more products recorded in 2021 compared to 2020.
+Leading Retailer - "Flipkart": Among retailers, "Flipkart" stands out with the highest average pre-invoice discount percentage, recorded at 30.83%.
+Improved Sales Performance: Fiscal year 2020's low sales performance in March and April experienced notable improvement in fiscal year 2021.
+Key Sales Channel - "Retailer": The "Retailer" channel emerges as the primary contributor, accounting for 73.22% of gross sales, thus serving as the key driver.
 
 ---
 
